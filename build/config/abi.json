@@ -1,4 +1,4 @@
-[
+{"contractName":"Polaroid Nights",
 	{
 		"inputs": [],
 		"stateMutability": "nonpayable",
@@ -484,4 +484,3 @@
 		"stateMutability": "payable",
 		"type": "function"
 	}
-]
